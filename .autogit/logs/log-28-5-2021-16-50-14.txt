@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Mon Jun 28 2021 16:50:14 GMT+0200 (közép-európai nyári idő)
+------------------------------------------------------
+
+Modified files:
+* index.html
+* out/style.css
+* out/style.css.map
+* src/style.scss
+
+
+Created files:
+* .autogit/logs/log-28-5-2021-16-29-59.txt
+
+
+Deleted files:
+
+
+Renamed files:
