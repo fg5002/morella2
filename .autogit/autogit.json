@@ -1,5 +1,5 @@
 {
-  "updateInterval": 1200,
+  "updateInterval": 60,
   "defaultMessage": "Automatic commit",
   "logging": true,
   "silent": true
